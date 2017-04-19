@@ -1,0 +1,79 @@
+html {
+  background-color: #F0EAD6;
+}
+
+
+.titleBar {
+	padding: 25px 35px;
+	border-bottom: 2px solid #cf8a05;
+	background: #ededed;
+}
+
+#name {
+	font-size: 1.1em;
+	font-weight: 700;
+	font-family: 'Open Sans';
+	display: inline-block;
+	margin-bottom: -6px;
+}
+
+#profilePic {
+	width: 8.5%;
+	float: left;
+	margin-right: 30px;
+}
+
+#profilePic img {
+	width: 100%;
+	height: auto;
+}
+
+#contactInfo {
+	float: right;
+	font-family: 'Raleway';
+	margin-top: 2px;
+	display: inline-block;
+}
+
+#contactInfo ul li {
+	list-style-type: square;
+	font-size: 0.9em;
+	margin-bottom: 3px;
+}
+
+
+.subSection section {
+	border-top: 1px solid #dedede;
+	margin-bottom: 230px;
+}
+
+.subSection h2 {
+	color: #cf8a05;
+	font-family: 'Open Sans';
+	float: left;
+	width: 25%;
+}
+
+
+.subSection p {
+	font-family: 'Raleway';
+	float: right;
+	display: inline-block;
+	width: 71%;
+}
+
+.subSection h3 {
+	font-family: 'Raleway';
+	float: right;
+	display: inline-block;
+	width: 71%;
+
+}
+
+.subSection ul {
+	list-style-type: square;
+	font-family: 'Raleway';
+	display: inline-block;
+	width: 93%;
+}
+
